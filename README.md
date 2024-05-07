@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,php)](https://skillicons.dev)
 
-![surakshagithub's Stats](https://github-readme-stats.vercel.app/api?username=surakshagithub&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![surakshagithub's Stats](https://github-readme-stats-qtg8.vercel.app/api?username=surakshagithub)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/surakshagithub/surakshagithub/output/github-contribution-grid-snake-dark.svg">
