@@ -12,7 +12,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/surakshagithub/surakshagithub/output/github-contribution-grid-snake.svg">
 </picture>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=surakshagithub)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=surakshagithub)](https://git.io/streak-stats&show_icons=true&theme=radical)
 
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. :rocket:
