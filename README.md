@@ -7,9 +7,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ![surakshagithub's Stats](https://github-readme-stats.vercel.app/api?username=surakshagithub&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/surakshagithub/surakshagithub/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/surakshagithub/surakshagithub/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/surakshagithub/surakshagithub/output/github-contribution-grid-snake.svg">
 </picture>
 
 
